@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 16px;
+  background: white;
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #555;
+}
